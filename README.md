@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taraz14?tab=repositories](https://github.com/Taraz14?tab=repositories)**
 
-- 📫 How to reach me **aa3815@srmist.edu.in**
+- 📫 How to reach me **dimaz.taraz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
