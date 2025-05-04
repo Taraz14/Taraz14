@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/Taraz14/">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codelinechef&label=Profile%20views&color=0e75b6&style=flat" alt="codelinechef" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taraz14&label=Profile%20views&color=0e75b6&style=flat" alt="Taraz14" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taraz14?tab=repositories](https://github.com/Taraz14?tab=repositories)**
 
