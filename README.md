@@ -6,6 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Taraz14/Taraz14/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Taraz14/Taraz14/snake.svg" alt="Snake animation" />
 
 ###
