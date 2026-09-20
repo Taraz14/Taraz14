@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Dante</h1>
+<h1 align="left">Hi, I'm SkyHolder</h1>
 <h3 align="left" I'm Undergraduate student at SRM Institute of Science and Technology W/S AI&ML </h3>
 <h3 align="left">Software Developer Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Taraz14/">
